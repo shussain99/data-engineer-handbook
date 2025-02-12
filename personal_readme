@@ -1,0 +1,9 @@
+docker run -it --name my_postgres_7  -p 5432:5432 -e POSTGRES_USER=bootcamp -e POSTGRES_PASSWORD=Shaan@123 -v my_pgdata:/var/lib/postgresql/data -d postgres
+
+
+Admin
+
+172.28.46.7
+
+
+WSL= shaan Shaan@123
