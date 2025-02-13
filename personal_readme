@@ -7,3 +7,12 @@ Admin
 
 
 WSL= shaan Shaan@123
+
+
+GIT-
+git add
+git commit -m 'comment'
+git push --set-upstream origin llm-demo-1
+
+switch to main branch
+pull from main branch
